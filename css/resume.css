@@ -56,7 +56,11 @@
 
 
 @media (max-width:700px) {
+    body {
+        font-size: 0.9em;
+    }
     .left, .right {
         float: none;
+        width: 100%;
     }
 }
