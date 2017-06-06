@@ -55,7 +55,7 @@
 }
 
 
-@media (max-width:700px) and screen {
+@media screen and (max-width:700px) {
     body {
         font-size: 0.9em;
     }
